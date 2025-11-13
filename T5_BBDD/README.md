@@ -4,7 +4,16 @@
 
 > Práctica avanzada de manipulación y tratamiento de datos en SQL sobre la base de datos relacional de la ONG **AyudaSolidaria**.
 
-## <h2 id="descripcion">📄 Descripción</h2>
+## 📄 Tabla de Contenidos  
+- [Descripción](#descripcion)  
+- [Archivos incluidos](#archivos-incluidos)  
+- [Instrucciones de uso](#instrucciones-de-uso)  
+- [Resumen de ejercicios](#resumen-de-ejercicios)  
+- [Esquema Entidad/Relación](#esquema-entidad-relacion)  
+- [Modelo Relacional](#modelo-relacional)  
+- [Autoría](#autoría)
+
+## <h2 id="descripcion">📝 Descripción</h2>
 
 En este tema se trabaja con la base de datos relacional **“AyudaSolidaria”**.
 
