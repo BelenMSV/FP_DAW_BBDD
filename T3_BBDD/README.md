@@ -1,6 +1,6 @@
 # 📙 Tarea 3: Implantación de Bases de Datos Relacionales
 
-![Instalación MySQL y Oracle](T3_BBDD.png)
+![Implantación de Bases de Datos Relacionales](T3_BBDD.png)
 
 > Práctica completa de creación y modificación de una base de datos relacional para gestión de clínicas sanitarias, con SQL y MySQL.
 
